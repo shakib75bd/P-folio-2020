@@ -1,0 +1,173 @@
+/*********TAGS**********/
+body{
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    font-family: 'Nunito Sans', serif;
+    
+    background-color: #a1dce4;
+    justify-content: center;
+}
+h1 {   
+    margin-top: 0;
+    line-height: 2;
+    font-family: 'Montez', cursive;
+   
+}
+.h2-hi{
+    font-size: 1 rem;
+    color: rgba(24, 126, 185, 0.938);
+    text-shadow: 1px 1px white;
+    font-family: 'Nunito Sans', serif;
+
+}
+h2 {   
+    font-family: 'Montez', cursive;
+    font-size: 1 rem;
+   
+}
+h3 {   
+    font-family: 'Montez', cursive;
+    line-height: ;
+    font-size: 1.6rem;
+   
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: ;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+
+/*****************CLASSES***************/
+
+/****Div 1****/
+.top-co {
+    background-color:#ace0ffb2;
+    position: relative;
+    padding: 0px;
+}
+
+.top-cloud {
+    position: absolute;
+    line-height: ;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left:300px;
+    bottom: 350px;
+
+}
+.tree {
+    background-size: cover;
+    margin: 0;
+    
+}
+.bird {
+    line-height: ;
+}
+
+.bmss {
+    width: 50%;
+    border-radius: 8%;
+}
+.bm {
+    width: 53%;
+    border-radius: 8%;
+}
+.bms{
+    width: 35%;
+    border-radius: 8%;
+}
+.bmsas{
+    width: 50%;
+    float: left;
+    padding: 0%;
+    margin:0px auto 50px auto;    
+}
+.bmsasa{
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+.bmbm{
+    border-radius: 8%;
+    width: 20%;
+    align-content: center;
+}
+.main{
+    align-content: center;
+    margin-bottom: 0;
+}
+
+
+/****Div 2****/
+.middle-co {
+    background-color:#b3d7dbb2;
+}
+
+.choice-text{
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: normal;
+}
+.hi-color{
+    color: rgba(7, 112, 107, 0.795);
+    text-shadow: 1px 1px rgb(128, 231, 200);
+}
+.text{
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: normal;
+}
+.text-card{
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: normal;
+    padding: 4px;
+    text-decoration: none;
+    color: rgb(18, 65, 65);
+}
+
+.myButton {
+	background-color:#0c95a1c2;
+	border-radius:10px;
+	border:1px solid #107275;
+	display:inline-block;
+	cursor:pointer;
+	color:#075350;
+	font-family: 'Balsamiq Sans', cursive;
+	font-size:18px;
+	padding:10px 31px;
+    text-decoration:none;
+    transition: 0s;
+	text-shadow:0px 1px 0px #c5d4c3;
+}
+.myButton:hover {
+    background-color:#c0f0f0;
+    transform: scale(1.02);
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+/**********************id**********/
+#profile-image{
+    border-radius: 100%;
+}
+.after-education{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #040e14b2;
+    border-width: 5px;
+    width: 20%;
+}
+
+
+/*****************new*/
